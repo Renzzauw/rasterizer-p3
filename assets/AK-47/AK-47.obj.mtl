@@ -1,0 +1,33 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl Material #0
+Kd 0.584314 0.584314 0.584314
+Ka 0.584314 0.584314 0.584314
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+Ns 47
+illum 2
+map_Kd AK-47_DI.JPG
+
+newmtl Material #1
+Kd 0.584314 0.584314 0.584314
+Ka 0.584314 0.584314 0.584314
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+Ns 37
+illum 2
+map_Kd AK-47_DI.JPG
+
+newmtl Material #2
+Kd 0.584314 0.584314 0.584314
+Ka 0.584314 0.584314 0.584314
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+Ns 40
+illum 2
+map_Kd AK-47_DI.JPG
+

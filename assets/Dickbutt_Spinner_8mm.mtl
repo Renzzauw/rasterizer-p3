@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+newmtl DefaultMaterial
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dickbuttUV.png
+
+
+newmtl White
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dickbuttUV.png
+
+
+newmtl White_0
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dickbuttUV.png
+
+

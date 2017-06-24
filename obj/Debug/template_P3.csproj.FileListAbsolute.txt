@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+C:\Users\hidde\OneDrive\Documenten\GitHub\Practicum-3-Rasterizer\bin\Debug\template_P3.exe.config
+C:\Users\hidde\OneDrive\Documenten\GitHub\Practicum-3-Rasterizer\bin\Debug\template_P3.exe
+C:\Users\hidde\OneDrive\Documenten\GitHub\Practicum-3-Rasterizer\bin\Debug\template_P3.pdb
+C:\Users\hidde\OneDrive\Documenten\GitHub\Practicum-3-Rasterizer\bin\Debug\OpenTK.dll
+C:\Users\hidde\OneDrive\Documenten\GitHub\Practicum-3-Rasterizer\obj\Debug\template_P3.csprojResolveAssemblyReference.cache
+C:\Users\hidde\OneDrive\Documenten\GitHub\Practicum-3-Rasterizer\obj\Debug\template_P3.exe
+C:\Users\hidde\OneDrive\Documenten\GitHub\Practicum-3-Rasterizer\obj\Debug\template_P3.pdb
+=======
+d:\Users\renzo.DCCOMPUTERS\Documents\GitHub\Practicum-3-Rasterizer\bin\Debug\template_P3.exe.config
+d:\Users\renzo.DCCOMPUTERS\Documents\GitHub\Practicum-3-Rasterizer\bin\Debug\template_P3.exe
+d:\Users\renzo.DCCOMPUTERS\Documents\GitHub\Practicum-3-Rasterizer\bin\Debug\template_P3.pdb
+d:\Users\renzo.DCCOMPUTERS\Documents\GitHub\Practicum-3-Rasterizer\bin\Debug\OpenTK.dll
+d:\Users\renzo.DCCOMPUTERS\Documents\GitHub\Practicum-3-Rasterizer\bin\Debug\OpenTK.dll.config
+d:\Users\renzo.DCCOMPUTERS\Documents\GitHub\Practicum-3-Rasterizer\obj\Debug\template_P3.csprojResolveAssemblyReference.cache
+d:\Users\renzo.DCCOMPUTERS\Documents\GitHub\Practicum-3-Rasterizer\obj\Debug\template_P3.exe
+d:\Users\renzo.DCCOMPUTERS\Documents\GitHub\Practicum-3-Rasterizer\obj\Debug\template_P3.pdb
+>>>>>>> origin/master
